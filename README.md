@@ -1,116 +1,110 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mohan Veera</h1>
-<h3 align="center">Android Developer | Full Stack Web Developer | C++ Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mohanveera9">
-    <img src="https://img.shields.io/github/followers/mohanveera9?label=Follow&style=social" />
-  </a>
-</p>
+# Hi, I'm Mohan Bala Nagendra Veera (mohanveera9)  
+**GitHub:** [mohanveera9](https://github.com/mohanveera9)  
 
 ---
 
-## 🚀 About Me  
-- 💻 Passionate about **building scalable apps** and solving real-world problems.  
-- 🌱 Currently exploring **AI-powered apps** with Flutter & MERN.  
-- 🎯 Goal: To master **system design** & contribute to open source.  
-- ⚡ Fun fact: I can debug faster with coffee ☕ than without.  
+## 👤 About Me  
+- Android Developer | Full Stack Web Developer | C++ Enthusiast  
+- Passionate about building real-world applications that solve problems  
+- Interested in scalable systems and open-source contributions  
+- Fun fact: Coffee makes my code run faster ☕  
 
 ---
 
-## 🛠 Tech Stack  
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 🌍 Open Source Contribution  
+- **USB Debug Blocker**  
+  - Prevents unauthorized USB debugging on Android devices  
+  - Built using **Flutter** with **C++ native integration**  
 
 ---
 
 ## 💼 Internships  
-- **SDE 1 – Sree Via AI**  
-  *Stack:* Flutter, Android  
-  *Work:* Developed Android apps with advanced UI and real-time features.  
 
-- **Flutter Developer – Mega Viz Tech**  
-  *Stack:* Flutter, Android  
-  *Work:* Built cross-platform apps, optimized performance, and integrated APIs.  
+### 1. Sree Via AI — *Software Development Engineer 1*  
+**Stack:** Flutter, Android  
+- Developed Android apps with advanced UI and real-time features  
 
-- **Full Stack Developer – Sepnoty**  
-  *Stack:* Flutter, MERN  
-  *Work:* Developed responsive websites like *Supriya Corn* & *Rahul Packaging*.  
+### 2. Mega Viz Tech — *Flutter Developer*  
+**Stack:** Flutter, Android  
+- Built cross-platform apps, optimized performance, integrated APIs  
 
-- **Web Developer – Anicura**  
-  *Stack:* Wix Studio (No-Code)  
-  *Work:* Built a professional website and learned modern no-code deployment strategies.  
+### 3. Sepnoty — *Full Stack Developer*  
+**Stack:** Flutter, MERN  
+- Built responsive websites like *Supriya Corn* and *Rahul Packaging*  
+
+### 4. Anicura — *Web Developer*  
+**Stack:** Wix Studio (No-Code)  
+- Built a professional website, learned modern no-code deployment  
 
 ---
 
-## 📌 Featured Projects  
+## 📂 Projects  
 
-### 1️⃣ Code Forge  
-**Tech Stack:** MERN  
-**Goal:** Conduct DSA contests for RGUKT students.  
-**Contribution:** Designed & developed full platform with contest management & leaderboard.  
+- **Code Forge** — MERN  
+  Platform to conduct DSA contests for RGUKT students  
 
-### 2️⃣ POSH – RGUKT Girls Safety App  
-**Tech Stack:** Flutter, Firebase Auth  
-**Goal:** Ensure women’s safety with live location, video & audio sharing.  
-**Contribution:** Built entire Flutter app, integrated Firebase Auth & real-time tracking.  
+- **POSH (RGUKT Girls Safety App)** — Flutter, Firebase Auth  
+  Live location, video, and audio sharing for women’s safety  
 
-### 3️⃣ Sabba Farm E-Commerce  
-**Tech Stack:** Flutter, Razorpay Integration  
-**Goal:** Allow farmers to sell pesticides & tools online.  
-**Contribution:** Added cart, orders, wishlist, and payment gateway.  
+- **Sabba Farm E-Commerce** — Flutter, Razorpay Integration  
+  Farmers can sell pesticides & tools online with cart, wishlist, payment  
 
-### 4️⃣ USB Debug Blocker  
-**Tech Stack:** Flutter, C++ (Native Integration)  
-**Goal:** Prevent unauthorized USB debugging on Android devices.  
-**Contribution:** Developed from scratch with native code integration.  
+- **USB Debug Blocker** — Flutter + C++  
+  Prevent unauthorized USB debugging (Open Source Project)  
+
+---
+
+## 🛠 Tech Stack  
+
+**Languages:**  
+- Dart, Kotlin, Java, C++, JavaScript (ES6+), HTML5, CSS3  
+
+**Frameworks & Libraries:**  
+- Flutter, React.js, Node.js, Express.js, Qt  
+
+**Databases:**  
+- Firebase, Firestore, MongoDB, MySQL  
+
+**Tools & Platforms:**  
+- Git & GitHub, Android Studio, VS Code, Postman, Wix Studio, Razorpay API, REST APIs, WebSockets  
+
+**Other Skills:**  
+- Responsive Web Design, Payment Gateway Integration, State Management (Provider, Riverpod), API Development, Cross-Platform Development  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanveera9&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveera9&layout=compact&theme=radical" height="165">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanveera9&theme=radical" height="165">
-</p>
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanveera9&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveera9&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mohanveera9&theme=tokyonight)  
+
+---
+## 🚀 Skills, Tools & Technologies  
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-</p>
+## 📫 Contact Me  
+
+- **Email:** mohan103999@gmail.com  
+- **LinkedIn:** [Your LinkedIn Link]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohan-bala-nagendra-veera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- **GitHub:** [mohanveera9](https://github.com/mohanveera9)  
 
 ---
-
-⭐ **“Keep building, keep learning, and stay curious!”**
