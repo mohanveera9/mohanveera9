@@ -109,7 +109,7 @@
 ## 📫 Contact Me  
 
 - **Email:** mohan103999@gmail.com  
-- **LinkedIn:** [Your LinkedIn Link]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohan-bala-nagendra-veera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- **LinkedIn:** ([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohan-bala-nagendra-veera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - **GitHub:** [mohanveera9](https://github.com/mohanveera9)  
 
 ---
