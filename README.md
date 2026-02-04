@@ -4,7 +4,7 @@
 ---
 
 ## 👤 About Me  
-- Android Developer | Full Stack Web Developer | C++ Enthusiast  
+- Android Developer | Full Stack Web Developer | C++ Enthusiast  ....
 - Passionate about building real-world applications that solve problems  
 - Interested in scalable systems and open-source contributions  
 - Fun fact: Coffee makes my code run faster ☕  
