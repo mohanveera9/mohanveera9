@@ -1,115 +1,101 @@
-# Hi, I'm Mohan Bala Nagendra Veera (mohanveera9)  
-**GitHub:** [mohanveera9](https://github.com/mohanveera9)  
+<div align="center">
+
+```
+ █▀▄▀█ █▀█ █░█ ▄▀█ █▄░█ █░█ █▀▀ █▀▀ █▀█ ▄▀█ █▀█
+ █░▀░█ █▄█ █▀█ █▀█ █░▀█ ▀▄▀ ██▄ ██▄ █▀▄ █▀█ █▀▀
+```
+
+**Android Developer · Full Stack Engineer · C++ Enthusiast**
+
+*Building real-world apps that solve real problems — from Flutter to MERN stacks.*
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohan103999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-bala-nagendra-veera)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohanveera9)
+
+</div>
 
 ---
 
-## 👤 About Me  
-- Android Developer | Full Stack Web Developer | C++ Enthusiast  ....
-- Passionate about building real-world applications that solve problems  
-- Interested in scalable systems and open-source contributions  
-- Fun fact: Coffee makes my code run faster ☕  
+## About
+
+- Passionate about building scalable, real-world applications
+- Experienced across mobile (Flutter/Android) and full-stack (MERN) development
+- Open source contributor with a focus on Android security tooling
+- Interested in competitive programming and developer tooling
+- Fun fact: Coffee makes my code run faster ☕
 
 ---
 
-## 🌍 Open Source Contribution  
-- **USB Debug Blocker**  
-  - Prevents unauthorized USB debugging on Android devices  
-  - Built using **Flutter** with **C++ native integration**  
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Code Forge](https://github.com/mohanveera9)** | Platform to conduct live DSA contests for RGUKT students | React, Node.js, MongoDB |
+| **[POSH — Safety App](https://github.com/mohanveera9)** | Women's safety app with live location, video & audio sharing | Flutter, Firebase |
+| **[Sabba Farm E-Commerce](https://github.com/mohanveera9)** | Farmers sell pesticides & tools online with cart, wishlist, payments | Flutter, Razorpay, Firestore |
+| **[USB Debug Blocker ⬡](https://github.com/mohanveera9)** | Prevents unauthorized USB debugging on Android — open source | Flutter, C++ |
 
 ---
 
-## 💼 Internships  
+## Open Source
 
-### 1. Sree Via AI — *Software Development Engineer 1*  
-**Stack:** Flutter, Android  
-- Developed Android apps with advanced UI and real-time features  
+### ⬡ USB Debug Blocker
+> Prevents unauthorized USB debugging on Android devices.
+> Built using **Flutter** with **C++ native integration**.
 
-### 2. Mega Viz Tech — *Flutter Developer*  
-**Stack:** Flutter, Android  
-- Built cross-platform apps, optimized performance, integrated APIs  
-
-### 3. Sepnoty — *Full Stack Developer*  
-**Stack:** Flutter, MERN  
-- Built responsive websites like *Supriya Corn* and *Rahul Packaging*  
-
-### 4. Anicura — *Web Developer*  
-**Stack:** Wix Studio (No-Code)  
-- Built a professional website, learned modern no-code deployment  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
-## 📂 Projects  
+## Tech Stack
 
-- **Code Forge** — MERN  
-  Platform to conduct DSA contests for RGUKT students  
+**Languages**
 
-- **POSH (RGUKT Girls Safety App)** — Flutter, Firebase Auth  
-  Live location, video, and audio sharing for women’s safety  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- **Sabba Farm E-Commerce** — Flutter, Razorpay Integration  
-  Farmers can sell pesticides & tools online with cart, wishlist, payment  
+**Frameworks & Libraries**
 
-- **USB Debug Blocker** — Flutter + C++  
-  Prevent unauthorized USB debugging (Open Source Project)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
----
+**Databases**
 
-## 🛠 Tech Stack  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Languages:**  
-- Dart, Kotlin, Java, C++, JavaScript (ES6+), HTML5, CSS3  
+**Tools & Platforms**
 
-**Frameworks & Libraries:**  
-- Flutter, React.js, Node.js, Express.js, Qt  
-
-**Databases:**  
-- Firebase, Firestore, MongoDB, MySQL  
-
-**Tools & Platforms:**  
-- Git & GitHub, Android Studio, VS Code, Postman, Wix Studio, Razorpay API, REST APIs, WebSockets  
-
-**Other Skills:**  
-- Responsive Web Design, Payment Gateway Integration, State Management (Provider, Riverpod), API Development, Cross-Platform Development  
-
----
-
-## 📊 GitHub Stats  
-
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanveera9&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveera9&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mohanveera9&theme=tokyonight)  
-
----
-## 🛠 Tech Stack  
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact Me  
+## GitHub Stats
 
-- **Email:** mohan103999@gmail.com  
-- **LinkedIn:** [View Pofile](https://www.linkedin.com/in/mohan-bala-nagendra-veera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub:** [mohanveera9](https://github.com/mohanveera9)  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohanveera9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveera9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160" />
+
+<img src="https://streak-stats.demolab.com?user=mohanveera9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
 
 ---
+
+<div align="center">
+  <sub>Made with ☕ · Hyderabad, India</sub>
+</div>
